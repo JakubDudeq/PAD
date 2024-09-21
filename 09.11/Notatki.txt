@@ -1,0 +1,36 @@
+Notatki czego nie umiem/nie było na lekcjach.
+
+Wykład 1:
+- Ten slajd o kodowaniu znaków jest w tym:
+  - GetConsoleOutputCP();
+  - SetConsoleOutputCP(CP_UTF8);
+  - SetConsoleOutputCP(oldcodepage);
+- W slajdzie o funkcjach jest deklaracja "int suma(std::vector tab)" i typ zmiennych 'vector' jest mi nieznany
+Wykład 2:
+- Brak może oprócz tego wspomnienia o RAM-ie bo budowy komputera wogule nie przerabialiśmy na rzadnym przedmiocie
+Wykład 3
+- Ze wskaźników to wogule nic nie bylo taką ogólną definicje znam ale nie wiem jak używać i kiedy i gdzie są użyteczne,
+te wszystkie definicje w wykładzie są mi nie znane
+Wykład 4
+- To samo bo sa wskaźniki
+Wykład 5
+-  Wogule nic z tego nie było np. słowo STRUCT czy te inne rzeczy nie wiem co robią.
+Wykład 6
+- tu śa oznaczenia przy zmiennych np [int *p] czy [int &r]
+Wykład 7
+- Więcej wskaźników
+Wykład 8
+- BSTNode nie było
+- Wogule nic z tymdrzewem BST nie było
+- są takie strzałki "if (dataLess(data, root->data))" i nie wiem co to robi.
+Wykład 9
+- 
+Złożoność obliczeniowa - notacja asymptotyczna 
+emmm nie było ale z tego wogule nic nie rozumiem tych rzeczy na matematyce nie było
+Wykład 10
+- więcej wskaźników których nie było 
+- jakiś constexpr nie było
+- tak samo volatile
+- jeszcze jest koło funkcji bool zwykla_funkcja(char pierwszy, char drugi) 8{} liczba tego też nie było
+Wykłąd 11
+- nie było typu extern
